@@ -1,25 +1,19 @@
 
-## Finishing your session
+## Week 2 recap
 
-Make sure that you give your first session a really clear end, and use this opportunity to establish good routines that will serve you well in future sessions.
+This week, we looked in detail at running your first session, including:
 
-## Give fair warning
++ Different ways to use the Code Club projects
++ Starting off your first session
++ Answering questions
++ Top tips for teaching 9- to 13-year-olds
++ Ending your session
 
-The children will be absorbed in coding and making by now, so give them a ten-minute warning before the session wraps up so that the end doesn’t come as a surprise.
 
-## Saving work
+Next week, we will look at:
 
-Make sure the children know how and where to save their work.
++ Celebrating success
++ Ideas to enrich and extend your activity
++ How to get support ongoing support for your club from Code Club and the Code Club community
 
-## Many hands make light work
-
-If there is equipment to put away at the end of the session, get the children to help you tidy it up — this is a great habit for them to get into, and it will save everyone time.
-
->*Packing up is pretty easy — the children save their projects and then take the laptops back to the laptop rack themselves.*
-**Adam Cohen-Rose, Code Club leader, Fleetville Junior School, Hertfordshire**
-
-## Thank you, and see you soon!
-
-Say well done or thank you at the end of each session. As your sessions progress, you can build in extras at the end, such as show-and-tells or celebrations.
-
-We'll look into show-and-tells and celebrations in more detail in Week 3.
+See you next week!

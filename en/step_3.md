@@ -27,5 +27,9 @@ Moreover, we also provide projects for learning to use the [Sense HAT](https://w
 
 If you're looking for translated projects, you can head over to [codeclubworld.org/projects](https://projects.codeclubworld.org/){:target="_blank"}.
 
-> *The Code Club projects guide the students so they learn without realising. They gain skills week by week so that, by the end of a course, they have mastered the basics of a coding language and have understood that this is just the beginning. [...] Starting with Scratch, students can then move onto text-based languages like Python or HTML, transferring the concepts they have mastered by tackling their own ideas and turning them into reality, be that a crazy Scratch game, a sparkling new web page, or a physical computing project with all the bells and whistles.*
-**— Jon Rogers, Code Club leader, Meriden Primary School, West Midlands**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+The Code Club projects guide the students so they learn without realising!<br> They gain skills week by week so that, by the end of a course, they have mastered the basics of a coding language and have understood that this is just the beginning. <br> Starting with Scratch, students can then move onto text-based languages like Python or HTML, transferring the concepts they have mastered by tackling their own ideas and turning them into reality, be that a crazy Scratch game, a sparkling new web page, or a physical computing project with all the bells and whistles!
+<br><br>
+<span style= "text-align:right; background-color: aliceblue; padding: 10px;">
+— Jon Rogers, Code Club leader, Meriden Primary School, West Midlands </span>
+</p>

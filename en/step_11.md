@@ -1,53 +1,38 @@
 
-## Debugging and questions
+## Top tips for teaching 9- to 13-year-olds
 
-Your session has begun and the club members are working through their projects. So far, so good.
+Some of you taking this course are already experienced educators or facilitators, but for some of you, Code Club will be the first time you interact with young people in an educational context. So, what should you expect, and how can you prepare?
 
-The next thing that is likely to happen is that some hands will go up. Below, [Lorna Gibson](https://www.futurelearn.com/profiles/7091216){:target="_blank"}, Programme Manager for Code Club, gives some advice on what to do when you look across a room and see a forest of hands.
+In the article below, [Tracy Gardner](https://www.futurelearn.com/profiles/5024498){:target="_blank"}, Content and Curriculum Manager for Raspberry Pi and Code Club leader, tells you her top tips for working with 9- to 13-year-olds.
 
 * * *
 
-The first time I ever ran a workshop for children, a friend of mine who was a very experienced teacher gave me a piece of advice that I have never forgotten: “Don’t be a waiter.”
+First of all, if you're feeling nervous, remember this: Code Club–aged children are generally very welcoming to an adult who has come along to help them with coding, so don’t worry — they won’t be trying to catch you out!
 
-What she meant was: try not to spend the whole session moving from raised hand to raised hand answering questions. You’ll be tired, and the children will be frustrated because they will have spent big chunks of the session with their hands up.
+It’s fine to chat with children about things they’re interested in (e.g. football, music, horses), they don’t need to be coding 100% of the time. Children are often motivated by working on projects that are related to their interests, so try and steer their enthusiasm into their coding.
 
-The trick is to give children the power and confidence to try and answer their own questions. This can take a little getting used to if you are new to running activities, so here are a few things that you can try out in your sessions.
+## What's your name, Miss?
 
-## Sit together, learn together
+Think about what you want the children to call you, and tell them when you introduce yourself. Some volunteers prefer to use their first name, others a more formal Miss/Mister/Doctor.
 
-Try grouping the children together if they are working on the same project or programming language. It will help them to start collaborating naturally and helping each other out.
+## Curiosity
 
-## Introduce a ‘hands up’ rule
+Some children are incredibly curious. This is a great characteristic when directed towards coding, but can lead to questions you’d rather not answer. At some point, you’ll probably be asked how much you earn! Don't be offended, but also don't feel you have to answer.
 
-Or rather, a 'three things **before** you put your hands up' rule! Encourage the club members to:
+Don’t be afraid to tell children to get on with coding if they are getting distracted too much though — the environment should be fun but also focused on the task in hand.
 
-+ Check they have completed all the previous steps in the project they are stuck on
-+ Check the code in the project notes to see how theirs compares
-+ Work with a partner or friend to try and find the answer
+## You don't have to know everything
 
-Some educators call this rule _C3B4me_, or _See Three Before Me_, to help learners remember that they should try three ways of finding the answer to a question before they put up their hand to ask.
+It’s healthy for the learners to know that you yourself don’t know everything, so don’t worry if children ask a question you can’t immediately answer. It’s fine to say "I don’t know, let’s try and find out".
 
-## Stop and explain
+When children are working on challenges, or on projects they have come up with, you may find that you don’t immediately understand the problem they have. Get them to describe the problem carefully, and talk through problem-solving techniques. Often children manage to solve their own problems once they explain them to someone else (or even _something_ else!), and if not, you can help them find a first step towards resolving the problem.
 
-Sometimes you’ll find that a lot of the children get stuck on the same thing. In this case, you might want to try stopping everyone to explain the answer to the entire group. Alternatively, why not get one of the children who has already figured it out to explain to their peers?
+## Keeping everyone safe
 
->*Think about agreeing on an approach for getting everyone’s attention. This could be a whistle (or electronic device!), a clap, or raising a hand. Set the rule that the club members should turn off any sound effects on their computer at these times and listen quietly, so that they’ll be able to get back to coding quickly.*
-**Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester**
+If children try to discuss things that are not appropriate for their age group (such as video games for older children), then explain that that’s not a suitable subject for Code Club, and let the Club leader know.
 
-## Question the question
-
-Of course, if the children still need to ask you for help, that’s fine. But instead of telling them the answer straight away, why not answer their question with a question?
-
-For example, if the question is "Can I add this block here to make the code repeat", you might answer "Why don't you try and add it and see whether it works".
-
-More often than not, you can guide the child to the solution to their problem without giving them the answer directly — it’s much more satisfying for everyone that way!
-
-Don’t feel overwhelmed or like you have to implement all of these suggestions. But incorporating a few of these techniques, or elements of them, will make your life as a facilitator easier and your sessions more relaxed and fun.
+Make sure you understand the safeguarding rules in operation at your venue. If you’re ever unsure about what to do in a situation, involve the venue host immediately.
 
 # Discussion
 
-+ What ideas do you have about helping children to answer their own questions and to learn independently?
-+ If you're an experienced teacher, what techniques will you use in your own club?
-+ If you're less experienced in teaching, what would you like to try?
-
-Click **Comments** to start sharing your ideas.
+Those of you on the course who are experienced educators: what advice can you share? And those of you who are less experienced, feel free to ask advice in the discussion too. Click **Comments** to share your thoughts and questions.

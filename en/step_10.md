@@ -1,52 +1,53 @@
 
-## How will you start your first session?
+## Debugging and questions
 
-First things first: you should start your first session by introducing yourself and explaining to your new club members what Code Club is.
+Your session has begun and the club members are working through their projects. So far, so good.
 
-If the club members don’t already know you, you can also say something about yourself. For example, tell them why you are interested in coding.
-
-Once introductions have been taken care of, there are several different ways to kick off your session.  [Rohima Crook](https://www.futurelearn.com/profiles/8462001){:target="_blank"}, Code Club Programme Manager, has some suggestions for you:
+The next thing that is likely to happen is that some hands will go up. Below, [Lorna Gibson](https://www.futurelearn.com/profiles/7091216){:target="_blank"}, Programme Manager for Code Club, gives some advice on what to do when you look across a room and see a forest of hands.
 
 * * *
 
-## Show a completed version of the project
+The first time I ever ran a workshop for children, a friend of mine who was a very experienced teacher gave me a piece of advice that I have never forgotten: “Don’t be a waiter.”
 
-If most children of the group are going to be working on the same project, it’s a good idea to first show them a completed version of it. Of course, if you’ve worked through the project yourself, you can show your version. This is a tangible way of demonstrating to the children what their aim for the session is, and it may even help them come up with ideas for how they can extend the project.
+What she meant was: try not to spend the whole session moving from raised hand to raised hand answering questions. You’ll be tired, and the children will be frustrated because they will have spent big chunks of the session with their hands up.
 
-## Demonstrate a small section of a project
+The trick is to give children the power and confidence to try and answer their own questions. This can take a little getting used to if you are new to running activities, so here are a few things that you can try out in your sessions.
 
-If you’ve worked through a project before the club session, you may have found a section which you think would be worth demonstrating before everyone starts. Spending a few minutes demonstrating skills or ideas at the beginning of the session allows the children to work more independently as the session progresses.
+## Sit together, learn together
 
-## Look at some online Scratch projects
+Try grouping the children together if they are working on the same project or programming language. It will help them to start collaborating naturally and helping each other out.
 
-This suggestion may be a little controversial, as I know some clubs actively encourage their children to create their own games instead of playing those made by other people. However, it can be really valuable for the children to spend a few minutes exploring some online projects because it can help them to understand the potential of Scratch and to be inspired. You can focus this activity by suggesting children search around a keyword for projects relating to a particular theme, such as ‘nature’ or ‘holidays’.
+## Introduce a ‘hands up’ rule
 
-## Name badges
+Or rather, a 'three things **before** you put your hands up' rule! Encourage the club members to:
 
-If you don’t already know the club members, you can give them name badges to help you learn their names. Once you are part of an **active** Code Club, you will be able to download a name badge template when you log into your account.
++ Check they have completed all the previous steps in the project they are stuck on
++ Check the code in the project notes to see how theirs compares
++ Work with a partner or friend to try and find the answer
 
-If you’re not good at learning names, don’t worry. You can keep the badges and hand them out again at the start of the next session.
+Some educators call this rule _C3B4me_, or _See Three Before Me_, to help learners remember that they should try three ways of finding the answer to a question before they put up their hand to ask.
 
-## Establish a routine
+## Stop and explain
 
-Several clubs I’ve visited have a routine for the children to follow when they arrive. This often includes tasks such as getting a laptop, collecting login details, setting up their computer, and reviewing what they did last week. After the first two or three sessions, this becomes second nature and frees up the adults helping at the club to answer any individual queries that might come up.
+Sometimes you’ll find that a lot of the children get stuck on the same thing. In this case, you might want to try stopping everyone to explain the answer to the entire group. Alternatively, why not get one of the children who has already figured it out to explain to their peers?
 
-## Talk about how to support each other
+>*Think about agreeing on an approach for getting everyone’s attention. This could be a whistle (or electronic device!), a clap, or raising a hand. Set the rule that the club members should turn off any sound effects on their computer at these times and listen quietly, so that they’ll be able to get back to coding quickly.*
+**Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester**
 
-Code Clubs work best when adults support children and children support other children. Sometimes you might need to define what this support looks like and get agreement from everyone in the club. It’s a good idea to talk through club rules, such as what to do if you get stuck, and how to test each other’s projects out.
+## Question the question
 
-Week 3 of this course looks in more detail at establishing club rules.
+Of course, if the children still need to ask you for help, that’s fine. But instead of telling them the answer straight away, why not answer their question with a question?
 
-A dynamic short introduction prepares the way for the rest of the session to run smoothly. When clubs start their sessions well, it makes the children excited about the creative opportunities that coding offers, and it helps them develop a resilient approach to problem-solving.
+For example, if the question is "Can I add this block here to make the code repeat", you might answer "Why don't you try and add it and see whether it works".
 
-* * *
+More often than not, you can guide the child to the solution to their problem without giving them the answer directly — it’s much more satisfying for everyone that way!
 
-## Off you go!
-
-Don’t spend too long on your introductions — perhaps pick one or two of the ideas above. The learners will be keen to get started on the projects!
+Don’t feel overwhelmed or like you have to implement all of these suggestions. But incorporating a few of these techniques, or elements of them, will make your life as a facilitator easier and your sessions more relaxed and fun.
 
 # Discussion
 
-How will you begin your first Code Club session? Or, if your first session has already happened, what pointers or advice can you pass on to others?
++ What ideas do you have about helping children to answer their own questions and to learn independently?
++ If you're an experienced teacher, what techniques will you use in your own club?
++ If you're less experienced in teaching, what would you like to try?
 
-Add your comments and ideas by clicking **Comments** below.
+Click **Comments** to start sharing your ideas.

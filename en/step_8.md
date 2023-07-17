@@ -1,24 +1,19 @@
 
-## Embracing 'chaos' in your Code Club
+## Your first session
 
-Code Club is intended to be an after-school or extracurricular activity, so you can expect that it will have some elements which are different to a school lesson.
+So it's time to start thinking about your first session. If you're feeling a bit nervous, don't worry — that's completely normal. Just remember you've done lots of preparation already, and the Code Club resources and community are there to support you.
 
-[Rik Cross](https://www.futurelearn.com/profiles/4572112){:target="_blank"}, Director of Informal Learning for Raspberry Pi, not only creates amazing Code Club projects, he also runs a Code Club in his local school in Leeds. Here he tells us about how to make the most of the energy and enthusiasm that comes with running a Code Club:
+###What will you do in the first session?
+First of all, make sure you have decided whether you will be coding in Scratch, Python, HTML/CSS, or Sonic Pi. Then all you need to do is choose which Code Club project you'll be starting off with.
 
-* * *
+The Code Club projects increase in difficulty as they go along, and they build on skills gained in previous weeks, so starting with the first project in the language you have chosen makes sense.
 
-At a recent Code Club meetup, I was chatting to a volunteer who asked for tips on running a Code Club because they felt that some aspects of their club were, in their words, ‘chaos’.
+You probably completed one of these projects earlier on in the course, and if you haven't, then running through one yourself before the first session with the club members will be great preparation; it will really help you answer the questions that come up during the session.
 
-This got me thinking that, in some ways, my club can be chaos too — and I think that’s a good thing! Obviously there is a need for rules and structure within a club, but children also need an environment in which they feel free to experiment and share ideas.
+### The structure of the first session
+However you decide to use the projects in your sessions, it is a good idea to stick to the basic idea of giving your session a clear **beginning, middle, and end**.
 
-Here are things about my club that I’d consider as ‘chaos’:
+In the next step, we'll explore in detail how to start off your first session.
 
-**Children work on different projects.** They are personalising their learning by working on a project they are interested in at their own pace. I’ve known children to skip projects which don’t interest them, or to spend weeks on a project that captures their imagination. Some children may, after completing a handful of projects, decide that they have enough knowledge and skill to build something of their own.
-
-**Children move around a lot.** They look at what others are making, getting ideas and inspiration. They often invite others to play (i.e. test) their finished projects, and then they make improvements based on feedback they receive. Children get a lot of motivation from seeing others huddled around their computer, playing and enjoying a project they've made. For this reason, children often make sure that their project is of high quality before allowing others to try it out.
-
-**It can sometimes get loud.** Children ask each other questions, and move around the room to help each other out. They test each other’s projects, giving verbal feedback, sharing ideas, or even just having fun with the things they’ve created. When children are motivated to create things that interest them, I think it’s important that they have time to enjoy what they’ve made.
-
-**Children play games.** My club members use online Scratch, so in addition to playing each other’s games, they get time to play other Scratch projects online. Obviously it’s important that this doesn’t dominate a club, but I think it helps children learn lots about what’s possible with Scratch — especially when moving past the basics. Posting their own creations online is also a great opportunity for children to get real feedback from the community.
-
-What might appear like ‘chaos’ is in fact part of the fun of running a club, and part of the learning experience; it is how children show the excitement and enthusiasm they feel when making things with computers. All this differentiates a Code Club from regular computing classes, so I always advise club leaders to embrace it!
+> *I put a sticky note with each child's name on the edge of their laptops or computer screens. They're easier to see than name badges when you're standing behind them in the classroom.*
+**Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester.**

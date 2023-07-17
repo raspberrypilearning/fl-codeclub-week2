@@ -14,12 +14,4 @@ Choose one of these three projects:
 
 Each project will take about 20–30 minutes to complete depending on your prior experience.
 
-Once you’ve tried out the project of your choosing, come back and join in the discussion about how you got on.
-
-# Discussion
-
-Which project did you complete? Why did you choose this one?
-
-If you have any problems with the project or encounter any bugs in your code, you can ask for help here from the other people participating in the course.
-
-You could even share a link to your completed projects in the comments.
+We strongly recommend that prior to each week's club, you take some time to complete the project yourself to have the best possible idea of what might go wrong and where your learners may 'get stuck'.

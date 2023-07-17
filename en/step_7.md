@@ -1,22 +1,24 @@
-!!! Resources
-   + [Video](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step2_7+a+code+club.mp4)
-   + [Video subtitles - English](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/2.5_CC_look_like.vtt)
-   + [Video subtitles - French](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/2_7_CC_look_like_French__France__reviewed.vtt)
-   + [Video subtitles - Italian](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/2_7_CC_look_like_Italian_reviewed.vtt)
-   + [Video subtitles - Portuguese](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/2_7_CC_look_like_Portuguese__Brazil__reviewed.vtt)
-   + [Video subtitles - Spanish](https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/2_7_CC_look_like_Spanish__Spain__reviewed.vtt)
 
-## What does a Code Club look like?
+## Embracing 'chaos' in your Code Club
 
-Watch this video of a typical session from one club in the South of England. As you can see, the young people in this club use the projects throughout the session, and they are allowed to choose which programming language to learn and which project to work through.
+Code Club is intended to be an after-school or extracurricular activity, so you can expect that it will have some elements which are different to a school lesson.
 
-Many clubs are run by one teacher, or by one teacher and one volunteer. However, the one in the video is a club where a group of volunteers work together with one teacher. Sometimes they all attend the sessions, and sometimes they take turns. Volunteering in a group can work well, and many people team up with colleagues or friends to volunteer and share the time commitment.
+[Rik Cross](https://www.futurelearn.com/profiles/4572112){:target="_blank"}, Director of Informal Learning for Raspberry Pi, not only creates amazing Code Club projects, he also runs a Code Club in his local school in Leeds. Here he tells us about how to make the most of the energy and enthusiasm that comes with running a Code Club:
 
+* * *
 
-# Discussion
+At a recent Code Club meetup, I was chatting to a volunteer who asked for tips on running a Code Club because they felt that some aspects of their club were, in their words, ‘chaos’.
 
-+ What ideas from this Code Club session do you think you will use in your own?
+This got me thinking that, in some ways, my club can be chaos too — and I think that’s a good thing! Obviously there is a need for rules and structure within a club, but children also need an environment in which they feel free to experiment and share ideas.
 
-+ Is there anything you think you would do differently?
+Here are things about my club that I’d consider as ‘chaos’:
 
-Click the **Comments** button below to add your thoughts.
+**Children work on different projects.** They are personalising their learning by working on a project they are interested in at their own pace. I’ve known children to skip projects which don’t interest them, or to spend weeks on a project that captures their imagination. Some children may, after completing a handful of projects, decide that they have enough knowledge and skill to build something of their own.
+
+**Children move around a lot.** They look at what others are making, getting ideas and inspiration. They often invite others to play (i.e. test) their finished projects, and then they make improvements based on feedback they receive. Children get a lot of motivation from seeing others huddled around their computer, playing and enjoying a project they've made. For this reason, children often make sure that their project is of high quality before allowing others to try it out.
+
+**It can sometimes get loud.** Children ask each other questions, and move around the room to help each other out. They test each other’s projects, giving verbal feedback, sharing ideas, or even just having fun with the things they’ve created. When children are motivated to create things that interest them, I think it’s important that they have time to enjoy what they’ve made.
+
+**Children play games.** My club members use online Scratch, so in addition to playing each other’s games, they get time to play other Scratch projects online. Obviously it’s important that this doesn’t dominate a club, but I think it helps children learn lots about what’s possible with Scratch — especially when moving past the basics. Posting their own creations online is also a great opportunity for children to get real feedback from the community.
+
+What might appear like ‘chaos’ is in fact part of the fun of running a club, and part of the learning experience; it is how children show the excitement and enthusiasm they feel when making things with computers. All this differentiates a Code Club from regular computing classes, so I always advise club leaders to embrace it!

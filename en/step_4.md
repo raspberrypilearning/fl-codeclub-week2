@@ -21,18 +21,22 @@ This is an interesting way to work if your club members and leaders are already 
 
 To strike a balance between the two options above, you could try giving the club members the option to choose one of number of different projects (three options work well, for example).
 
-> *In my club, we spend half a term working through Code Club projects in order. As the projects get more challenging, some children ask to spend an extra week on them, so at the end of each week we take a vote on whether we want to continue with the project or move on.*
-**— Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester**
+
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+In my club, we spend half a term working through Code Club projects in order. As the projects get more challenging, some children ask to spend an extra week on them, so at the end of each week we take a vote on whether we want to continue with the project or move on.<br><br>
+<span style= "text-align:right; background-color: aliceblue; padding: 10px;">— Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester</span>
+</p>
 
 ### Personalising the projects
 
 Once they understand the basics of the project, your club members will often want to personalise their coded creation by adding different sprites, colours, and backdrops. It's great to encourage this, as personalising the project will really help your club members take ownership of their work and feel proud of what they have created.
 
->*Be open to the young people at your club personalising their projects. For some, having the opportunity to put their own style on their game and personalise it can make a world of difference to their engagement. When you allow the young people to make the projects their own, they start to see coding as a creative process and to understand that can be truly life-changing.*
- **— Lorna Gibson, Code Club leader, Wormit Primary School, Fife**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>Be open to the young people at your club personalising their projects. For some, having the opportunity to put their own style on their game and personalise it can make a world of difference to their engagement. When you allow the young people to make the projects their own, they start to see coding as a creative process and to understand that can be truly life-changing.
+<br><br>
+<span style= "text-align:right; background-color: aliceblue; padding: 10px;">— Lorna Gibson, Code Club leader, Wormit Primary School, Fife</span>
+</p>
 
-# Discussion
-
-How do you think you will use the Code Club projects in your club? If you are already running a club, what is your approach? Does it work well?
-
-Click the **comments** link below to add your ideas and recommendations.
+# Reflection
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+How do you think you will use the Code Club projects in your club?<br><br> If you are already running a club, what is your approach? Does it work well?
+</p>
