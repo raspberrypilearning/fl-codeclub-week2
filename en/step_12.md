@@ -1,4 +1,3 @@
-
 ## Finishing your session
 
 Make sure that you give your first session a really clear end, and use this opportunity to establish good routines that will serve you well in future sessions.

@@ -1,4 +1,3 @@
-
 ## Different ways to use the Code Club projects
 
 Code Club should be flexible and set up in the way that best suits the club leaders and the young people taking part. The projects are there to help you structure the sessions and provide content, but how they are used is up to you.

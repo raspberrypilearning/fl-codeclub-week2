@@ -1,4 +1,3 @@
-
 ## Try out another Code Club project
 
 Choose one of these three projects:

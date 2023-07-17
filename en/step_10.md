@@ -1,4 +1,3 @@
-
 ## Debugging and questions
 
 Your session has begun and the club members are working through their projects. So far, so good.

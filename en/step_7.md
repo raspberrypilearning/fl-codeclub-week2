@@ -1,4 +1,3 @@
-
 ## Embracing 'chaos' in your Code Club
 
 Code Club is intended to be an after-school or extracurricular activity, so you can expect that it will have some elements which are different to a school lesson.

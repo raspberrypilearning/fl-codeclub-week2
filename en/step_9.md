@@ -1,4 +1,3 @@
-
 ## How will you start your first session?
 
 First things first: you should start your first session by introducing yourself and explaining to your new club members what Code Club is.

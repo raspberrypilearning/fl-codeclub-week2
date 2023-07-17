@@ -1,5 +1,4 @@
-
-## Top tips for teaching 9- to 13-year-olds
+## Top tips for teaching 9 to 13-year-olds
 
 Some of you taking this course are already experienced educators or facilitators, but for some of you, Code Club will be the first time you interact with young people in an educational context. So, what should you expect, and how can you prepare?
 

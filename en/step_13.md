@@ -1,4 +1,3 @@
-
 ## Week 2 recap
 
 This week, we looked in detail at running your first session, including:

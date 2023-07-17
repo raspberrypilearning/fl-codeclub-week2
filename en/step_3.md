@@ -1,4 +1,3 @@
-
 ## The Code Club projects
 
 In Week 1, we focused on the practicalities of what you need to get ready before you start a Code Club. Now, let's think about what the young people will do when they sit down at their keyboards each week.
