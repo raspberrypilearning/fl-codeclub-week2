@@ -1,3 +1,5 @@
+## Introduction to Week 2
+
 <video width="100%" height="600" id="Introduction video" controls preload="metadata"
   source src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/step2_1+welcome+to+week+2.mp4" type="video/mp4" >
   <track
@@ -28,7 +30,7 @@
     src="https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/CC+vol+training+/2_1_week_2__Portuguese__Brazil__reviewed.vtt" />
 </video>
 
-## Introduction to Week 2
+
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 Hello, and welcome back for Week 2 of <strong>Prepare to run a Code Club</strong>!
 
