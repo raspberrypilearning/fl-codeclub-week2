@@ -3,7 +3,7 @@
 
 Some of you taking this course are already experienced educators or facilitators, but for some of you, Code Club will be the first time you interact with young people in an educational context. So, what should you expect, and how can you prepare?
 
-In the article below, [Tracy Gardner](https://www.futurelearn.com/profiles/5024498), Content and Curriculum Manager for Raspberry Pi and Code Club leader, tells you her top tips for working with 9- to 13-year-olds.
+In the article below, [Tracy Gardner](https://www.futurelearn.com/profiles/5024498){:target="_blank"}, Content and Curriculum Manager for Raspberry Pi and Code Club leader, tells you her top tips for working with 9- to 13-year-olds.
 
 * * *
 

@@ -5,7 +5,7 @@ First things first: you should start your first session by introducing yourself 
 
 If the club members don’t already know you, you can also say something about yourself. For example, tell them why you are interested in coding.
 
-Once introductions have been taken care of, there are several different ways to kick off your session.  [Rohima Crook](https://www.futurelearn.com/profiles/8462001), Code Club Programme Manager, has some suggestions for you:
+Once introductions have been taken care of, there are several different ways to kick off your session.  [Rohima Crook](https://www.futurelearn.com/profiles/8462001){:target="_blank"}, Code Club Programme Manager, has some suggestions for you:
 
 * * *
 

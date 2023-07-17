@@ -3,7 +3,7 @@
 
 Your session has begun and the club members are working through their projects. So far, so good.
 
-The next thing that is likely to happen is that some hands will go up. Below, [Lorna Gibson](https://www.futurelearn.com/profiles/7091216), Programme Manager for Code Club, gives some advice on what to do when you look across a room and see a forest of hands.
+The next thing that is likely to happen is that some hands will go up. Below, [Lorna Gibson](https://www.futurelearn.com/profiles/7091216){:target="_blank"}, Programme Manager for Code Club, gives some advice on what to do when you look across a room and see a forest of hands.
 
 * * *
 

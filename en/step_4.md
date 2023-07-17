@@ -3,7 +3,7 @@
 
 Code Club should be flexible and set up in the way that best suits the club leaders and the young people taking part. The projects are there to help you structure the sessions and provide content, but how they are used is up to you.
 
-If your Code Club will be running online sessions, check out our [‘Best practice for running an online coding session’](https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/5efd843951b3493aa03b0ca5db0c1b5e/watch?source=CCFL) webinar, which gives you practical approaches that clubs have tried and tested, to help you run fun, engaging online sessions.
+If your Code Club will be running online sessions, check out our [‘Best practice for running an online coding session’](https://www.gotostage.com/channel/d20e514831f340b3913659639068c724/recording/5efd843951b3493aa03b0ca5db0c1b5e/watch?source=CCFL){:target="_blank"} webinar, which gives you practical approaches that clubs have tried and tested, to help you run fun, engaging online sessions.
 
 Here are a few thoughts about the different ways that you could organise your sessions around the Code Club projects:
 
