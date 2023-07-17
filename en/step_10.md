@@ -6,6 +6,7 @@ The next thing that is likely to happen is that some hands will go up. Below, [L
 
 * * *
 
+
 The first time I ever ran a workshop for children, a friend of mine who was a very experienced teacher gave me a piece of advice that I have never forgotten: “Don’t be a waiter.”
 
 What she meant was: try not to spend the whole session moving from raised hand to raised hand answering questions. You’ll be tired, and the children will be frustrated because they will have spent big chunks of the session with their hands up.
@@ -30,8 +31,9 @@ Some educators call this rule _C3B4me_, or _See Three Before Me_, to help learne
 
 Sometimes you’ll find that a lot of the children get stuck on the same thing. In this case, you might want to try stopping everyone to explain the answer to the entire group. Alternatively, why not get one of the children who has already figured it out to explain to their peers?
 
->*Think about agreeing on an approach for getting everyone’s attention. This could be a whistle (or electronic device!), a clap, or raising a hand. Set the rule that the club members should turn off any sound effects on their computer at these times and listen quietly, so that they’ll be able to get back to coding quickly.*
-**Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+Think about agreeing on an approach for getting everyone’s attention. This could be a whistle (or electronic device!), a clap, or raising a hand. Set the rule that the club members should turn off any sound effects on their computer at these times and listen quietly, so that they’ll be able to get back to coding quickly.<br><br><span style= "text-align:right; background-color: aliceblue; padding: 10px;"> -Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester</span>
+</p>
 
 ## Question the question
 
@@ -43,10 +45,11 @@ More often than not, you can guide the child to the solution to their problem wi
 
 Don’t feel overwhelmed or like you have to implement all of these suggestions. But incorporating a few of these techniques, or elements of them, will make your life as a facilitator easier and your sessions more relaxed and fun.
 
-# Discussion
+# Reflection
+--- task ---
 
-+ What ideas do you have about helping children to answer their own questions and to learn independently?
+What ideas do you have about helping children to answer their own questions and to learn independently?
 + If you're an experienced teacher, what techniques will you use in your own club?
 + If you're less experienced in teaching, what would you like to try?
 
-Click **Comments** to start sharing your ideas.
+--- /task ---

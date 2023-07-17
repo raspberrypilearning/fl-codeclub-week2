@@ -8,6 +8,7 @@ Once introductions have been taken care of, there are several different ways to 
 
 * * *
 
+
 ## Show a completed version of the project
 
 If most children of the group are going to be working on the same project, it’s a good idea to first show them a completed version of it. Of course, if you’ve worked through the project yourself, you can show your version. This is a tangible way of demonstrating to the children what their aim for the session is, and it may even help them come up with ideas for how they can extend the project.
@@ -44,8 +45,9 @@ A dynamic short introduction prepares the way for the rest of the session to run
 
 Don’t spend too long on your introductions — perhaps pick one or two of the ideas above. The learners will be keen to get started on the projects!
 
-# Discussion
+# Reflection
+--- task ---
 
 How will you begin your first Code Club session? Or, if your first session has already happened, what pointers or advice can you pass on to others?
 
-Add your comments and ideas by clicking **Comments** below.
+--- /task ---

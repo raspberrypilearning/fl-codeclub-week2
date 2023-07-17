@@ -15,5 +15,7 @@ However you decide to use the projects in your sessions, it is a good idea to st
 
 In the next step, we'll explore in detail how to start off your first session.
 
-> *I put a sticky note with each child's name on the edge of their laptops or computer screens. They're easier to see than name badges when you're standing behind them in the classroom.*
-**Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester.**
+
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+I put a sticky note with each child's name on the edge of their laptops or computer screens. They're easier to see than name badges when you're standing behind them in the classroom.<br><br><span style= "text-align:right; background-color: aliceblue; padding: 10px;">Tracy Gardner, Code Club leader, Oliver's Battery Primary School, Winchester.</span>
+</p>

@@ -13,9 +13,9 @@ Make sure the children know how and where to save their work.
 ## Many hands make light work
 
 If there is equipment to put away at the end of the session, get the children to help you tidy it up — this is a great habit for them to get into, and it will save everyone time.
-
->*Packing up is pretty easy — the children save their projects and then take the laptops back to the laptop rack themselves.*
-**Adam Cohen-Rose, Code Club leader, Fleetville Junior School, Hertfordshire**
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+Packing up is pretty easy — the children save their projects and then take the laptops back to the laptop rack themselves.<br><br><span style= "text-align:right; background-color: aliceblue; padding: 10px;">
+Adam Cohen-Rose, Code Club leader, Fleetville Junior School, Hertfordshire</span></p>
 
 ## Thank you, and see you soon!
 
