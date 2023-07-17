@@ -5,6 +5,7 @@ Code Club is intended to be an after-school or extracurricular activity, so you 
 [Rik Cross](https://www.futurelearn.com/profiles/4572112){:target="_blank"}, Director of Informal Learning for Raspberry Pi, not only creates amazing Code Club projects, he also runs a Code Club in his local school in Leeds. Here he tells us about how to make the most of the energy and enthusiasm that comes with running a Code Club:
 
 
+* * *
 
 At a recent Code Club meetup, I was chatting to a volunteer who asked for tips on running a Code Club because they felt that some aspects of their club were, in their words, ‘chaos’.
 

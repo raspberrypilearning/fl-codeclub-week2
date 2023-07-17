@@ -6,8 +6,8 @@ If the club members don’t already know you, you can also say something about y
 
 Once introductions have been taken care of, there are several different ways to kick off your session.  [Rohima Crook](https://www.futurelearn.com/profiles/8462001){:target="_blank"}, Code Club Programme Manager, has some suggestions for you:
 
-* * *
 
+* * *
 
 ## Show a completed version of the project
 
