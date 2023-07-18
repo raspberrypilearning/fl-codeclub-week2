@@ -9,13 +9,19 @@ steps:
   - title: Introduction to Week 2
   - title: Your experiences
   - title: The Code Club projects
+    completion:
+      - engaged
   - title: Different ways to use the Code Club projects
   - title: Try out another Code Club project
   - title: What does a Code Club look like?
   - title: Embracing 'chaos' in your Code Club
   - title: Your first session
+    completion:
+      - internal
   - title: How will you start your first session?
   - title: Debugging and questions
   - title: Top tips for teaching 9 to 13-year-olds
   - title: Finishing your session
+    completion:
+      - external
   - title: Week 2 recap
